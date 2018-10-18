@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FootballClubApp</string>
+
+    <string-array name="club_name">
+        <item>Manchester United FC</item>
+        <item>PSIM Yogyakarta FC</item>
+        <item>Persib Bandung FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Juventus FC</item>
+        <item>Arsenal FC</item>
+        <item>Barcelona FC</item>
+        <item>Manchester City FC</item>
+        <item>Chelsea FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_manutd</item>
+        <item>@drawable/img_psimyogyakarta</item>
+        <item>@drawable/img_persib</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_juventus</item>
+        <item>@drawable/img_arsenal</item>
+        <item>@drawable/img_barcelona</item>
+        <item>@drawable/img_mancity</item>
+        <item>@drawable/img_chelsea</item>
+    </array>
+
+    <string-array name="club_desc">
+        <item>Manchester United Football Club, commonly known as Man. United or simply United, is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football.</item>
+        <item>PSIM kependekan dari Perserikatan Sepak Bola Indonesia Mataram adalah sebuah klub sepak bola di Yogyakarta yang didirikan pada 5 September 1929 dengan nama awal Persatuan Sepakraga Mataram. Nama Mataram digunakan karena Yogyakarta merupakan pusat pemerintahan kerajaan Mataram.</item>
+        <item>Persib Bandung adalah sebuah tim sepak bola Indonesia terbesar yang berdiri pada 14 Maret 1933, klub ini berbasis di Bandung, Jawa Barat. Persib saat ini bermain di Gojek Liga 1 Indonesia dan Piala Indonesia. Julukan mereka adalah Maung Bandung dan Pangeran Biru.</item>
+        <item>Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a German sports club based in Munich</item>
+        <item>Juventus Football Club S.p.A., colloquially known as Juve, is a professional Italian football club in Turin, Piedmont.</item>
+        <item>Arsenal Football Club is a professional football club based in Islington, London, England, that plays in the Premier League, the top flight of English football.</item>
+        <item>Futbol Club Barcelona, known simply as Barcelona and colloquially as Barça, is a professional football club based in Barcelona, Catalonia, Spain.</item>
+        <item>Manchester City Football Club, commonly known as City, is a football club in Manchester, England. Founded in 1880 as St. Mark\'s, it became Ardwick Association Football Club in 1887 and Manchester City in 1894.</item>
+        <item>Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the club\'s home ground since then has been Stamford Bridge. Chelsea won the First Division title in 1955, followed by various cup competitions between 1965 and 1971</item>
+    </string-array>
+
+    <string name="hint_team_name">Team name</string>
+    <string name="hint_desciption">Deskripsi team</string>
+</resources>
